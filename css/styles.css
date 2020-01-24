@@ -1,0 +1,64 @@
+body {
+  font-family: 'Just Another Hand', cursive;
+  background-color: #242E6B;
+  width: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2 {
+  font-weight: 400;
+  font-size: 200px;
+}
+
+#title {
+  color: #fc8c93;
+  line-height: 50px;
+}
+
+#question {
+  display: inline;
+  color: #FFFFFF;
+}
+
+/* Styling by id: add styling for canvas */
+#my-canvas {
+  vertical-align: top;
+  display: inline;
+  border-radius: 10px;
+  border: 5px solid #ffffff;
+}
+
+.container {
+  text-align: center;
+  margin: 100px auto 20px auto;
+}
+
+.button-container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.btn {
+  margin: 10px;
+	background-color:#FFFFFF;
+	border-radius:20px;
+  border-width: 0;
+	cursor:pointer;
+	color:#242E6B;
+  line-height: 70px;
+	font-family:'Just Another Hand', cursive;
+	font-size:70px;
+  letter-spacing: 3px;
+	padding:13px 32px 0 32px;
+  text-align: center;
+	text-decoration:none;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #242E6B;
+}
+
+
